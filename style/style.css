@@ -70,7 +70,7 @@ margin-top: 15px;
 
 
 .why-web{
-background-color: blue;
+/* background-color: blue; */
 width: 1140px;
 height: 1393px;
 margin-left: 100px;
@@ -84,6 +84,113 @@ justify-content: flex-start;
 align-items: center;
 gap: 10;
 padding: 80px 97px 80px 97px;
+}
+.why-web-development{
+width: 11000px;
+height: 1330px;
+align-items: center;
+/* background-color: gray; */
+}
+.web-nav{
+width: auto;
+height:auto;
+gap: 24;
+text-align: center;
+padding: 0 40px 40px 40px;
+}
 
+.web-h5{
+  color: rgb(13, 19, 33);
+font-size: 22px;
+font-weight: 00;
+line-height: 37px;
+margin-top: 10px;
+margin-bottom: 20px;
+}
 
+.web-p{
+  color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+}
+
+.web-dev-first{
+  border-radius: 16px;
+  background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+  /* text-align: center; */
+  margin-left: 48px;
+  margin-right: 48px;
+  margin-top: 48px;
+  margin-bottom: 48px;
+  display: flex;
+justify-content: space-between;
+}
+.for-h6-p{
+width: 350px;
+height: 140px;
+padding: 0px;
+
+}
+.dev1-h6{
+  color: rgba(13, 19, 33, 0.7);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 36px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.dev1-p{
+  color: rgb(13, 19, 33);
+font-size: 15px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 16px;
+margin-bottom: 20px;
+}
+.web-div1{
+  padding-left: 30px;
+  padding-top: 35px;
+  padding-bottom: 30px;
+
+}
+.web-div1-img{
+  padding-left: 30px;
+  padding-top: 35px;
+  padding-bottom: 30px;
+
+}
+.div-btn{
+  box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+width: 171px;
+height: 47px;
+margin-top: 28px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
+.web-dev-second{
+  border-radius: 16px;
+  background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+  /* text-align: center; */
+  margin-left: 48px;
+  margin-right: 48px;
+  margin-top: 48px;
+  margin-bottom: 48px;
+  display: flex;
+}
+.web-div222{
+  width: 350px;
+height: 140px;
+padding: 0px;
+margin-left: 30px;
 }
