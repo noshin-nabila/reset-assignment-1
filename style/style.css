@@ -75,8 +75,8 @@ width: 1140px;
 height: 1393px;
 margin-left: 100px;
 margin-right: 100px;
-margin-top: 50px;
-margin-bottom: 50px;
+/* margin-top: 50px; */
+/* margin-bottom: 50px; */
 /* Auto layout */
 display: flex;
 flex-direction: row;
@@ -89,6 +89,9 @@ padding: 80px 97px 80px 97px;
 width: 11000px;
 height: 1330px;
 align-items: center;
+border-radius: 16px;
+
+background: rgba(13, 19, 33, 0.02);
 /* background-color: gray; */
 }
 .web-nav{
@@ -192,5 +195,56 @@ text-align: center;
   width: 350px;
 height: 140px;
 padding: 0px;
-margin-left: 30px;
+margin-left: 50px;
+}
+
+/* insssssss */
+
+.my-inspiration{
+height: 775px;
+margin-left: auto;
+margin-right: auto;
+/* background-color: rebeccapurple; */
+width: 1140px;
+/* Auto layout */
+/* display: flex;
+flex-direction: row;
+justify-content: flex-start; */
+align-items: center;
+gap: 10;
+}
+.ins1-h5{
+  color: rgb(13, 19, 33);
+font-size: 26px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 50px;
+margin-bottom: 20px;
+/* padding-top: 20px; */
+}
+.ins-p{
+  opacity: 0.7;
+  color: rgb(13, 19, 33);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.ins2{
+  text-align: center;
+}
+.target-img{
+  width: 35.68px;
+height: 37px;
+}
+.my-target{
+  margin-left: auto;
+margin-right: auto;
+width: 1140px;
+text-align: center;
 }
