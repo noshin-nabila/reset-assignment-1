@@ -371,7 +371,7 @@ line-height: 23px;
 letter-spacing: 0%;
 text-align: center;
 }
-.footer{
+#footer{
   border-radius: 16px;
 background: rgba(13, 19, 33, 0.03);
 height: 90px;
