@@ -65,6 +65,7 @@ margin-top: 20px;
   width: 200px;
 height: 55px;
 margin-top: 15px;
+font-weight:bold;
 }
 
 
@@ -131,7 +132,7 @@ letter-spacing: 0%;
 justify-content: space-between;
 }
 .for-h6-p{
-width: 350px;
+width: 450px;
 height: 140px;
 padding: 0px;
 
@@ -139,7 +140,7 @@ padding: 0px;
 .dev1-h6{
   color: rgba(13, 19, 33, 0.7);
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 800;
   line-height: 36px;
   letter-spacing: 0%;
   text-align: left;
@@ -176,7 +177,7 @@ margin-top: 28px;
 color: rgb(13, 19, 33);
 font-family: Azeret Mono;
 font-size: 20px;
-font-weight: 600;
+font-weight: 800;
 line-height: 23px;
 letter-spacing: 0%;
 text-align: center;
@@ -393,4 +394,9 @@ padding: 32px 150px 32px 150px;
 }
 .learn{
   text-decoration: underline;
+  color: black;
+
+font-size: 16px;
+font-weight: 800;
+line-height: 15px;
 }
